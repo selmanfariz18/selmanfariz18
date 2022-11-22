@@ -4,13 +4,13 @@
  <img src = "giphy.gif">
   <br /><br />
   <samp>
-    I'm <a href="https://www.linkedin.com/in/selman-fariz-bb8390229/">Selmanul Farizy</a>, currently second year Computer Science and Engineering student at <a     href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a> and Developer.Interested in python , cyber security , etc and so on...
+    I'm <a href="https://www.linkedin.com/in/selman-fariz-bb8390229/">Selmanul Farizy</a>, currently second year Computer Science and Engineering student at <a     href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a> and a Developer.Interested in python , cyber security , etc and so on...
      </samp>
 </p> 
 
 - 🌱 I’m currently learning Vue.js. 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=selmanfariz18&theme=dark&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
