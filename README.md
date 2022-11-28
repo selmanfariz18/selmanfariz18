@@ -30,4 +30,4 @@
 
 [twitter]: https://twitter.com/Selmanulfarizy
 [instagram]: https://www.instagram.com/fariz.deb/
-[linkedin]: https://www.linkedin.com/in/selman-fariz-bb8390229/
+[linkedin]: https://www.linkedin.com/in/selmanfariz18/
