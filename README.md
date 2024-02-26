@@ -8,7 +8,9 @@
      </samp>
 </p>
 
-- 🌱 I’m currently working on django projects.
+- 🌱 "I am currently focusing on projects utilizing Django and Flutter, with a strong foundation in HTML, CSS, and JavaScript, demonstrating my comprehensive skills in web development."
+
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=selmanfariz18&theme=dark&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
