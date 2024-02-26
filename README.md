@@ -4,7 +4,7 @@
  <img src = "giphy.gif">
   <br /><br />
   <samp>
-    I'm <a href="https://www.linkedin.com/in/selman-fariz-bb8390229/">Selmanul Farizy</a>, currently third year Computer Science and Engineering student at <a     href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a> and a Developer.Interested in python , cyber security , etc and so on...
+    I'm <a href="https://www.linkedin.com/in/selman-fariz-bb8390229/">Selmanul Farizy</a>, currently third year Computer Science and Engineering student at <a     href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a> and a Developer.
      </samp>
 </p>
 
