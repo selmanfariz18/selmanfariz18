@@ -10,7 +10,11 @@
 
 <div>
 
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+[![Developer](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
+
+
+[![React Web Developer](https://img.shields.io/badge/Web%20Developer-React-%2361DAFB?logo=react)](https://github.com/meashna)
+
 
 </div>
 
