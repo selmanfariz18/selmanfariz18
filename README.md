@@ -10,9 +10,11 @@
 
 - 🌱 "I am currently focusing on projects utilizing Django and Flutter, with a strong foundation in HTML, CSS, and JavaScript, demonstrating my comprehensive skills in web development."
 
-
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=selmanfariz18&theme=dark&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selmanfariz18)](https://github.com/anuraghazra/github-readme-stats)
 
