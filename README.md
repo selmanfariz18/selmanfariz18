@@ -8,6 +8,13 @@
      </samp>
 </p>
 
+<div>
+
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+
+</div>
+
+
 - 🌱 "I am currently focusing on projects utilizing Django and Flutter, with a strong foundation in HTML, CSS, and JavaScript, demonstrating my comprehensive skills in web development."
 
 <div align="center">
