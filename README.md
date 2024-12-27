@@ -3,9 +3,10 @@
  <p align="center">
  <img src = "giphy.gif">
   <br /><br />
-  <samp>
-    I'm <a href="https://www.linkedin.com/in/selman-fariz-bb8390229/">Selmanul Farizy</a>, currently third year Computer Science and Engineering student at <a     href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a> and a Developer.
-     </samp>
+ <samp>
+    I'm <a href="https://www.linkedin.com/in/selman-fariz-bb8390229/">Selmanul Farizy</a>, a final-year Computer Science and Engineering student at <a href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a>, and a developer.
+</samp>
+
 </p>
 
 <br>
