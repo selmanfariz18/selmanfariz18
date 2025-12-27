@@ -34,8 +34,8 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=selmanfariz18&theme=dark&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=selmanfariz18&theme=dark&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=selmanfariz18&theme=dark&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
