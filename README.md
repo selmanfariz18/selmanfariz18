@@ -6,6 +6,12 @@
  <samp>
     I'm <a href="https://www.linkedin.com/in/selman-fariz-bb8390229/">Selmanul Farizy</a>, a final-year Computer Science and Engineering student at <a href="http://www.kmeacollege.ac.in/">KMEA Engineering College, Ernakulam</a>, and a developer.
 </samp>
+<samp>
+  Hello, I'm <a href="https://selmanfariz18.vercel.app/">Selmanul Farizy</a>.<br><br>
+  A CS Engineer by degree<br>
+  A Software Developer by profession<br>
+  A vibe-coder by nature
+</samp>
 
 </p>
 
@@ -30,7 +36,6 @@
 </div>
 <br>
 
-- 🌱 "I am currently focusing on projects utilizing Django and Flutter, with a strong foundation in HTML, CSS, and JavaScript, demonstrating my comprehensive skills in web development."
 
 <div align="center">
 
